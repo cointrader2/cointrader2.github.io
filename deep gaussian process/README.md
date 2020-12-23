@@ -1,1 +1,1 @@
-1 gaussian process in machine learning
+1 gaussian process for machine learning
