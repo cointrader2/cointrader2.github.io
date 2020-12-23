@@ -3,4 +3,4 @@
 [高斯过程](https://github.com/cointrader2/cointrader2.github.io/blob/8a9b2a18034aa5cf72e0a61f20bac0b5afe91e03/deep%20gaussian%20process/gaussian%20process%20for%20machine%20learning.md)
 
 
-[dgp](http://cointrader2.github.io/deep_gaussian_process/gaussianprocessformachinelearning.md)
+[dgp](deep_gaussian_process/gaussianprocessformachinelearning.md)
