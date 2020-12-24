@@ -14,3 +14,12 @@ Volatility Forecasting. National
 Bureau of Economic Research; 2005. 11188
  波动率预测用garch。
 
+Recurrent Neural Filters: Learning Independent Bayesian Filtering Steps for Time Series Prediction
+用贝叶斯滤波构造递归变分自编码器对装填空间转移概率建模。关注点，在时间步上传播的贝叶斯网络。
+
+
+
+Deep Factors for Forecasting
+假设每个时间步由全局因子和随机因子决定，混合效应模型加动态因子模型
+
+Bayesian Filtering and Smoothing
