@@ -5,4 +5,4 @@
 
 [深度高斯过程](deep_gaussian_process/gaussianprocessformachinelearning.md)
 
-[时间序列研究](timeseries\README.MD)
+[时间序列研究](timeseries\tsfdl.md)
