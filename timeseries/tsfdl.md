@@ -23,3 +23,26 @@ Deep Factors for Forecasting
 假设每个时间步由全局因子和随机因子决定，混合效应模型加动态因子模型
 
 Bayesian Filtering and Smoothing
+很多滤波
+
+
+
+Enhancing Time-Series Momentum Strategies Using Deep Neural Networks
+用lstm在期货合约上做趋势和仓位预测
+
+
+ Causal Interpretability for Machine Learning –Problems, Methods and Evaluation
+机器学习的因果解释
+先给了因果推断的定义分别是是结构模型，贝叶斯网络，和平均因果效应。三种因果解释方法，效果最好的是反事实推理。得到因果解释的四种方法，基于模型，反事实推理，因果和公平性，因果和数据
+
+Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead
+so on...
+
+The M4 forecasting competition – A practitioner’s view
+so practical...
+
+Estimating Counterfactual Treatment Outcomes over Time Through Adversarially Balanced Representations
+反事实循环架构预测治疗效果
+
+
+总结：ts的表示方法，架构，因果推断（贝叶斯网络），泛函，测度。
