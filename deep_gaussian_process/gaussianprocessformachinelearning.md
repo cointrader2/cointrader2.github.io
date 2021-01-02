@@ -13,4 +13,4 @@
 3 协方差函数
 基本分为两类平稳和非平稳
 
-### http://www.GaussianProcess.org/gpml
+[GP](http://www.GaussianProcess.org/gpml)
