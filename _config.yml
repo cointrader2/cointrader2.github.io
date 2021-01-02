@@ -4,4 +4,5 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-  
+include:
+  - tss.md
