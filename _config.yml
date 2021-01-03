@@ -4,5 +4,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
+encoding : utf-8
+drafts:
   - tss.md
