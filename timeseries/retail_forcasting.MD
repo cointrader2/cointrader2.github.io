@@ -12,6 +12,8 @@ the nature of retail forcasting
 1.9 customer activity recognition 
 1.10 antifraud
 1.11 human activity tracing
+1.23 new product design
+1.13 supplier management
 
 2 data
 2.1 time series data
@@ -27,6 +29,10 @@ the nature of retail forcasting
 3.3 nlp model
 3.4 cv model
 3.5 multimodal fusion
+3.6 gan model
+3.7 financial model
+3.8 credit model
+3.9 abnormal detecton model
 
 4 system architecture
 4.1 log
