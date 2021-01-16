@@ -52,8 +52,8 @@ the nature of retail forcasting
 4.3.2 dws
 4.3.3 dwt
 4.3.4 ads
-4.5 algorithm center
-4.6 online and offline ab testing platform
+4.5 algorithm platform
+4.6 online and offline data science platform
 
 5 retail chain analyzing 
 
