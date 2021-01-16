@@ -26,6 +26,8 @@ the nature of retail forcasting
 3.2 advanced time series model
 3.2.1 bayes time series
 3.2.2 causal inference
+3.2.3 gp
+3.2.4 seq2seq
 3.3 nlp model
 3.4 cv model
 3.5 multimodal fusion
@@ -33,6 +35,8 @@ the nature of retail forcasting
 3.7 financial model
 3.8 credit model
 3.9 abnormal detecton model
+3.10 uplift model/incremental model and experiment
+3.11 convex optimization
 
 4 system architecture
 4.1 log
@@ -40,7 +44,8 @@ the nature of retail forcasting
 4.1.2 sales log
 4.1.3 customer log
 4.1.4 shelf log
-4.2.5 eviroment and context log
+4.1.5 eviroment and context log
+4.1.5 face tracing log
 4.2 log parsing and message pipe
 4.3 data warehouse segmentation
 4.3.1 dwd
@@ -49,3 +54,11 @@ the nature of retail forcasting
 4.3.4 ads
 4.5 algorithm center
 4.6 online and offline ab testing platform
+
+5 retail chain analyzing 
+
+6 financial analyzing
+
+7 profit analyzing
+
+8 securitizing and legal structure
