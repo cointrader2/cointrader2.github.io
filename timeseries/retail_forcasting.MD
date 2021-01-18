@@ -37,6 +37,8 @@ the nature of retail forcasting
 3.9 abnormal detecton model
 3.10 uplift model/incremental model and experiment
 3.11 convex optimization
+3.12 gs model
+3.13 em model
 
 4 system architecture
 4.1 log
