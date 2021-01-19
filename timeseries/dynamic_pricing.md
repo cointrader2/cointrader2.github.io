@@ -1,0 +1,1 @@
+constrained optimizetion function of the price elastisity of demand 
