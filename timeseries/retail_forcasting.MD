@@ -2,7 +2,7 @@ the nature of retail forcasting
 
 1 problem framing
 1.1 demand forcasting 需求预测
-1.2 sku selection     sku选品
+1.2 [dynamic pricing](timeseries\dynamic_pricing.md)
 1.3 revenue forcasting 销售额预测
 1.4 logistics optimization 物流优化
 1.5 Shelf Optimisation 货架优化 
@@ -14,6 +14,7 @@ the nature of retail forcasting
 1.11 human activity tracing
 1.23 new product design
 1.13 supplier management
+1.14 sku selection      
 
 2 data
 2.1 time series data
