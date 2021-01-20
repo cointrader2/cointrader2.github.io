@@ -1,11 +1,11 @@
-the nature of retail forcasting
+the nature of retail forcasting: pricing and revenue optimization
 
 1 problem framing
 1.1 demand forcasting 需求预测
 1.2 [dynamic pricing](timeseries\dynamic_pricing.md)
 1.3 revenue forcasting 销售额预测
 1.4 logistics optimization 物流优化
-1.5 Shelf Optimisation 货架优化 
+1.5 shelf optimisation 货架优化 
 1.6 marketing modeling and experiment 营销模型和实验
 1.7 trending detecton 趋势发现
 1.8 user behavior mining 用户行为挖掘
