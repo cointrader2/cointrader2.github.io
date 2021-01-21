@@ -15,6 +15,7 @@ the nature of retail forcasting: pricing and revenue optimization
 1.23 new product design
 1.13 supplier management
 1.14 sku selection      
+1.15 growth hack
 
 2 data
 2.1 time series data
@@ -40,6 +41,7 @@ the nature of retail forcasting: pricing and revenue optimization
 3.11 convex optimization
 3.12 gs model
 3.13 em model
+3.14 recommendation system
 
 4 system architecture
 4.1 log
